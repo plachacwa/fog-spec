@@ -1,0 +1,6 @@
+lex.identifier
+lex.normalization
+lex.nullchar
+lex.symbols-suffixes
+lex.valid-8bit-char
+lex.valid-utf8
