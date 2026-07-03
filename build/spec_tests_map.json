@@ -1,0 +1,20 @@
+{
+  "lex.valid-8bit-char": [
+    "lex.valid-8bit-char"
+  ],
+  "lex.identifier": [
+    "lex.identifier"
+  ],
+  "lex.symbols-suffixes": [
+    "lex.symbols-suffixes"
+  ],
+  "lex.normalization": [
+    "lex.normalization"
+  ],
+  "lex.nullchar": [
+    "lex.nullchar"
+  ],
+  "lex.valid-utf8": [
+    "lex.valid-utf8"
+  ]
+}

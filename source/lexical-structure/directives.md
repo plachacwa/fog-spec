@@ -1,0 +1,2 @@
+# 1.5. Compiler directives
+*Compiler directives* are character sequences that begin with {uc}`0023|#` and end with {scmp}`semicolon` or behind {scmp}`line break`, {uc}`0028|(`, and {uc}`007b|{`. They may contain instructions that affect compilation (alignment, location of objects in memory), but do not affect the logical behaviour of the program.
